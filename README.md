@@ -71,4 +71,3 @@ Click Connect
 
 <img width="831" height="492" alt="Image" src="https://github.com/user-attachments/assets/94961001-cccd-4eea-aac1-1ead8e85e9f6" />
 
-<img width="843" height="927" alt="Image" src="https://github.com/user-attachments/assets/113333d5-643d-4e90-a048-f55f4fd8fbae" />
