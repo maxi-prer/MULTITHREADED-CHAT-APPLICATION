@@ -60,3 +60,15 @@ In the GUI:
 Enter your username
 
 Click Connect
+
+##OUTPUT
+
+<img width="1072" height="756" alt="Image" src="https://github.com/user-attachments/assets/2741e8c1-03f5-43fb-967d-2382e664beed" />
+
+<img width="492" height="613" alt="Image" src="https://github.com/user-attachments/assets/94a114e3-aa22-4ef4-a902-69d9550bff6f" />
+
+<img width="1108" height="765" alt="Image" src="https://github.com/user-attachments/assets/0d147f4c-71d8-4d3f-93df-b8c1e879a8cd" />
+
+<img width="831" height="492" alt="Image" src="https://github.com/user-attachments/assets/94961001-cccd-4eea-aac1-1ead8e85e9f6" />
+
+<img width="843" height="927" alt="Image" src="https://github.com/user-attachments/assets/113333d5-643d-4e90-a048-f55f4fd8fbae" />
